@@ -1,7 +1,6 @@
-# 🌌 3D Solar System Mission Control
-> **3D Graphics Final Project — WSB Merito Wrocław**  
-> **Student:** Hüseyin Tunay Çelik | **Student ID:** 97294  
-> **Course:** 3D Graphics | **Lecturer:** Vishnu Suresh  
+# 🌌 3D Solar System Mission Control  
+> **Student:** Hüseyin Tunay Çelik 
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-3.3%20%2F%20Fixed-orange.svg?logo=opengl&logoColor=white)](https://www.opengl.org/)
